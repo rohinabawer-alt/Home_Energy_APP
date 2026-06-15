@@ -2,9 +2,9 @@
 The Home Energy Analyzer is a Python desktop app that visualizes household electricity usage, cost, CO₂ impact, and appliance consumption using Tkinter and Matplotlib. It uses simulated data and simple statistical calculations to generate trends and predictions, helping users understand and manage energy use efficiently.
 """
 ╔══════════════════════════════════════════════════════════════╗
-║         HOME ENERGY ANALYZER - Python Desktop App           ║
-║         Color: Purple theme  |  Accents: Green              ║
-║         Libraries: tkinter, matplotlib                       ║
+         HOME ENERGY ANALYZER - Python Desktop App           
+         Color: Purple theme  |  Accents: Green              
+         Libraries: tkinter, matplotlib                       
 ╚══════════════════════════════════════════════════════════════╝
 
 HOW TO RUN:
